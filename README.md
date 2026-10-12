@@ -1,6 +1,6 @@
 [![Blog](https://img.shields.io/badge/Blog-FF5A4A?style=flat-square&logo=tistory&logoColor=white)](https://elly1108.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/kahyun12-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahyun12)
-[![Gmail](https://img.shields.io/badge/your.email@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranygo12@gmail.com)
+[![Gmail](https://img.shields.io/badge/ranygo12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ranygo12@gmail.com)
 
 👋 Hi there! I'm a **cloud & platform engineer** who loves Kubernetes. ☁️
 I build platforms that make developers' lives easier — from infra as code to CI/CD pipelines. 🚀
